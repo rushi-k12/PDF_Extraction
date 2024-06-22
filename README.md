@@ -35,5 +35,8 @@ CSV File: A CSV file (categorized_text.csv) containing the extracted and categor
 ## Example Output
 sample.pdf
 categorized_text.csv
+
+## Deployment
+Successfully deployed the model in Huggingface at the url(https://huggingface.co/spaces/rushi-k/App_7)
 ## License
 This project is licensed under the MIT License.
